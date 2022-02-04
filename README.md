@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Loic
+- 👀 I’m interested in Machine Learning & Space Exploration
+- 🚀 I’m currently working for Lux Aerobot as a Data Scientists
+- 📫 How to reach me lprenevost@luxaerobot.com
